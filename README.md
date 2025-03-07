@@ -28,7 +28,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/greeter-app.git](https://github.com/prashant-971/assignment2.git
+git clone https://github.com/prashant-971/assignment2.git
 
 Usage
 
