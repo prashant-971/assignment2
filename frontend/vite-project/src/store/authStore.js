@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Base URL for our API endpoints
-const API_BASE_URL = 'https://assignment3-iczh.onrender.com/api';
+const API_BASE_URL = 'http://localhost:4000/api';
 
 // Function to fetch greeting by name from our API
 export const getGreeting = async (name) => {
